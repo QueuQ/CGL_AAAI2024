@@ -4,8 +4,10 @@ layout: default
 
 ## Materials
 
-Slides for the tutorial: will be added
+Slides for the tutorial: <a href="https://github.com/QueuQ/CGL_AAAI2024/blob/master/tutorial_slides.pdf"> https://github.com/QueuQ/CGL_AAAI2024/blob/master/tutorial_slides.pdf </a>
+
 Our survey on continual graph learning: <a href="https://arxiv.org/abs/2402.11565"> https://arxiv.org/abs/2402.11565 </a>
+
 We also maintain an up-to-date GitHub repository featuring a comprehensive list of CGL algorithms, accessible at
 <a href="https://github.com/UConn-DSIS/Survey-of-Continual-Learning-on-Graphs"> https://github.com/UConn-DSIS/Survey-of-Continual-Learning-on-Graphs.
 
