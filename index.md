@@ -5,7 +5,15 @@ layout: default
 ## Materials
 
 Slides for the tutorial: will be added
-Our survey on continual graph learning: <a href="https://github.com/QueuQ/CGL_tut01/blob/master/CGL_survey.pdf"> https://github.com/QueuQ/CGL_AAAI2024/blob/master/CGL_survey.pdf </a>
+Our survey on continual graph learning: <a href="https://arxiv.org/abs/2402.11565"> https://arxiv.org/abs/2402.11565 </a>
+We also maintain an up-to-date GitHub repository featuring a comprehensive list of CGL algorithms, accessible at
+<a href="https://github.com/UConn-DSIS/Survey-of-Continual-Learning-on-Graphs"> https://github.com/UConn-DSIS/Survey-of-Continual-Learning-on-Graphs.
+
+Other recommended works include:
+1. CGLB: Benchmark tasks for continual graph learning [link](https://openreview.net/forum?id=5wNiiIDynDF)
+2. Neural message passing for quantum chemistry [link](https://proceedings.mlr.press/v70/gilmer17a)
+3. Continual lifelong learning with neural networks: A review [link](https://www.sciencedirect.com/science/article/pii/S0893608019300231)
+4. Three scenarios for continual learning [link](https://arxiv.org/abs/1904.07734)
 
 
 ## Tutorial Outline
